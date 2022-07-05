@@ -1,0 +1,26 @@
+[
+    {
+        "cep": "41815300",
+        "logradouro": "Rua Afonso Ruy",
+        "complemento": "",
+        "bairro": "Itaigara",
+        "localidade": "Salvador",
+        "uf": "Salvador",
+        "ibge": "2927408",
+        "gia": "",
+        "ddd": "71",
+        "siafi": "3849"
+    },
+    {
+        "cep": "41815050",
+        "logradouro": "Rua Padre Manuel Barbosa",
+        "complemento": "",
+        "bairro": "Itaigara",
+        "localidade": "Salvador",
+        "uf": "Salvador",
+        "ibge": "2927408",
+        "gia": "",
+        "ddd": "71",
+        "siafi": "3849"
+    }
+]
